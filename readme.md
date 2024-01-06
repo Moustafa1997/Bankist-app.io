@@ -1,6 +1,6 @@
 # Bankist-app
 
-mostly depend on operations with array methods in javaScript😍
+mostly depend on operations with array methods && DOM magics  in javaScript😍
 
 # Demo-link
 
