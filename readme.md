@@ -12,7 +12,7 @@ https://moustafa1997.github.io/Bankist-app.io/
 
 
 
-# how you cam login
+# how you can login
 simply
 username==> ma
 pin==>1111
